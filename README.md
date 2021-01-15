@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt Text](https://tenor.com/view/bruce-almighty-keyboard-warrior-comedy-jim-carrey-angry-gif-3393582)
+
 <!--
 **Victomas97/Victomas97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
