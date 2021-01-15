@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Hello World 👋 </h2>
-  <img src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" alt="coding hard"  width=250/>
+  <img src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" alt="coding hard"  width=500/>
 </div>
 
 <!--
