@@ -1,12 +1,7 @@
-
-
 <div align="center">
-# Hello World 👋
-![Alt Text](https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969)
+  <h2> Hello World 👋 </h2>
+  <img src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" alt="coding hard"  width=250/>
 </div>
-
-
-
 
 <!--
 **Victomas97/Victomas97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
