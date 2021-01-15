@@ -1,5 +1,8 @@
+
+
+<div align="center">
 ### Hello World 👋
-<center>Centered text</center>
+</div>
 
 ![Alt Text](https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969)
 
